@@ -1,12 +1,17 @@
 [
   {
-    "profile_pic": "",
-    "name": "",
-    "video": ""
+    "name": "Ariana Grande",
+    "profile_pic": "https://raw.githubusercontent.com/travelogest/Fake/main/pics/ArianaGrande.jpg",
+    "video": [
+      "https://raw.githubusercontent.com/travelogest/Fake/main/ArianaGrande.mp4",
+      "https://raw.githubusercontent.com/travelogest/Fake/main/ArianaGrande2.mp4"
+    ]
   },
   {
-    "profile_pic": "",
-    "name": "",
-    "video": ""
+    "name": "Billie Eilish",
+    "profile_pic": "https://raw.githubusercontent.com/travelogest/Fake/main/pics/BillieEilish.webp",
+    "video": [
+      "https://raw.githubusercontent.com/travelogest/Fake/main/BillieEilish.mp4"
+    ]
   }
 ]
