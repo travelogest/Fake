@@ -13,5 +13,12 @@
     "video": [
       "https://raw.githubusercontent.com/travelogest/Fake/main/BillieEilish.mp4"
     ]
+  },
+  {
+    "name": "Balack Obama",
+    "profile_pic": "https://raw.githubusercontent.com/travelogest/Fake/main/pics/BalackObama.webp",
+    "video": [
+      "https://raw.githubusercontent.com/travelogest/Fake/main/BalackObama.mp4"
+    ]
   }
 ]
