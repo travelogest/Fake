@@ -41,5 +41,19 @@
     "video": [
       "https://raw.githubusercontent.com/travelogest/Fake/main/CristianoRonaldo.mp4"
     ]
+  },
+  {
+    "name": "Donald Trump",
+    "profile_pic": "https://raw.githubusercontent.com/travelogest/Fake/main/pics/DonaldTrump.jpg",
+    "video": [
+      "https://raw.githubusercontent.com/travelogest/Fake/main/DonaldTrump.mp4"
+    ]
+  },
+  {
+    "name": "DwayneJohnson",
+    "profile_pic": "https://raw.githubusercontent.com/travelogest/Fake/main/pics/DwayneJohnson.jpg",
+    "video": [
+      "https://raw.githubusercontent.com/travelogest/Fake/main/DwayneJohnson.mp4"
+    ]
   }
 ]
