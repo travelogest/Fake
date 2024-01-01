@@ -34,5 +34,12 @@
     "video": [
       "https://raw.githubusercontent.com/travelogest/Fake/main/CardiB.mp4"
     ]
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "profile_pic": "https://raw.githubusercontent.com/travelogest/Fake/main/pics/CristianoRonaldo.jpg",
+    "video": [
+      "https://raw.githubusercontent.com/travelogest/Fake/main/CristianoRonaldo.mp4"
+    ]
   }
 ]
