@@ -15,10 +15,17 @@
     ]
   },
   {
-    "name": "Balack Obama",
+    "name": "Barack Obama",
     "profile_pic": "https://raw.githubusercontent.com/travelogest/Fake/main/pics/BalackObama.webp",
     "video": [
       "https://raw.githubusercontent.com/travelogest/Fake/main/BalackObama.mp4"
+    ]
+  },
+  {
+    "name": "Britney Spears",
+    "profile_pic": "https://raw.githubusercontent.com/travelogest/Fake/main/pics/BritneySpears.jpg",
+    "video": [
+      "https://raw.githubusercontent.com/travelogest/Fake/main/BritneySpears.mp4"
     ]
   }
 ]
