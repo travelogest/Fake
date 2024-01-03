@@ -40,6 +40,7 @@
     "profile_pic": "https://raw.githubusercontent.com/travelogest/Fake/main/pics/CristianoRonaldo.jpg",
     "video": [
       "https://raw.githubusercontent.com/travelogest/Fake/main/CristianoRonaldo.mp4"
+      "https://raw.githubusercontent.com/travelogest/Fake/main/CristianoRonaldo2.mp4"
     ]
   },
   {
@@ -54,6 +55,20 @@
     "profile_pic": "https://raw.githubusercontent.com/travelogest/Fake/main/pics/DwayneJohnson.jpg",
     "video": [
       "https://raw.githubusercontent.com/travelogest/Fake/main/DwayneJohnson.mp4"
+    ]
+  },
+  {
+    "name": "Elonmusk",
+    "profile_pic": "https://raw.githubusercontent.com/travelogest/Fake/main/pics/Elonmusk.jpg",
+    "video": [
+      "https://raw.githubusercontent.com/travelogest/Fake/main/Elonmusk.mp4"
+    ]
+  },
+  {
+    "name": "JustinBieber",
+    "profile_pic": "https://raw.githubusercontent.com/travelogest/Fake/main/pics/JustinBieber.webp",
+    "video": [
+      "https://raw.githubusercontent.com/travelogest/Fake/main/JustinBieber.mp4"
     ]
   }
 ]
