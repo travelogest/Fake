@@ -247,6 +247,14 @@
     ]
   },
   {
+    "name": "Tina",
+    "profile_pic": "https://raw.githubusercontent.com/travelogest/Fake/main/pics/Tina.jpg",
+    "video": [
+      "https://raw.githubusercontent.com/travelogest/Fake/main/tina1.mp4",
+      "https://raw.githubusercontent.com/travelogest/Fake/main/tina2.mp4"
+    ]
+  },
+  {
     "name": "Random Girls",
     "profile_pic": "https://raw.githubusercontent.com/travelogest/Fake/main/pics/random.jpg",
     "video": [
